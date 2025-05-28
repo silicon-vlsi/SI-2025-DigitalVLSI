@@ -1,5 +1,5 @@
 # SI-2025-DigitalVLSI
-Summer Internship 2025: Digital VLSI Design from Verilog RTL and Verification to  Synthesis
+Summer Internship 2025: **Digital VLSI Design from Verilog RTL and Verification to  Synthesis**
 
 ## Course Venue & Timings
 
@@ -16,11 +16,12 @@ Summer Internship 2025: Digital VLSI Design from Verilog RTL and Verification to
 
 ## Course Information
 
-- 🔗 [**Day-Wise Course Plan**](content/Day-Wise-Plan.md)
+- 🔗 [**Day-Wise Course Plan**](docs/digital_design_course-daywisePlan.pdf)
 - **CAD and IT Setup** (These need to be setup before 2nd June)
   - 🔗 [Follow this guide](content/cad-install-setup-wsl-ubuntu.md) to install **Ubuntu 24.04** on **Windows Subsytem for Linux (WSL)**
+  - :link: [Follow this guide](docs/vivado_installation.pdf) to install **Vivado (Student Edition)** 
   - 🔗 [Follow this quick start guide](https://www.makeuseof.com/tag/a-quick-guide-to-get-started-with-the-linux-command-line/) to get familiar with **Linux Command Line**
-  - **nano** is a good text editor for begineers. 
+  - :link: [Quick start guide for nano text editor](content/quick-start-guide-nano-editor.md) good text editor for begineers. 
 
 ## Resources
 
