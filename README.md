@@ -1,6 +1,14 @@
 # SI-2025-DigitalVLSI
 Summer Internship 2025: **Digital VLSI Design from Verilog RTL and Verification to  Synthesis**
 
+## Resources
+
+- **CLASS DOCUMENTATION**
+  - [Introduction and Outline to the Course](docs/L1_Introduction_Course_Outline.pdf)
+  - [Review of Compinational Design](docs/L2_Review_Combinational_Logic_Design.pdf)
+  - [Review of Sequential Design](docs/L3_Review_Sequential_Logic_Design.pdf)
+
+
 ## Course Venue & Timings
 
 - 📆 **DURATION**: June 3rd till June 20th (3 weeks)
@@ -24,6 +32,5 @@ Summer Internship 2025: **Digital VLSI Design from Verilog RTL and Verification 
   - 🔗 [Follow this quick start guide](https://www.makeuseof.com/tag/a-quick-guide-to-get-started-with-the-linux-command-line/) to get familiar with **Linux Command Line**
   - :link: [Quick start guide for nano text editor](content/quick-start-guide-nano-editor.md) good text editor for begineers. 
 
-## Resources
 
 
