@@ -11,6 +11,7 @@ Summer Internship 2025: **Digital VLSI Design from Verilog RTL and Verification 
 
 - **VIDEOS/TUTORIALS/ETC**
   - [Video: Vivado](https://drive.google.com/file/d/1pMjK7-NyEzoLno-KRy9zS8QvX6bKpIBx/view?usp=sharing)
+  - :link: [Follow this guide](docs/vivado_installation.pdf) to install **Vivado (Student Edition)** 
 
 ## Course Venue & Timings
 
