@@ -4,10 +4,13 @@ Summer Internship 2025: **Digital VLSI Design from Verilog RTL and Verification 
 ## Resources
 
 - **CLASS DOCUMENTATION**
-  - [Introduction and Outline to the Course](docs/L1_Introduction_Course_Outline.pdf)
-  - [Review of Combinational Design](docs/L2_Review_Combinational_Logic_Design.pdf)
-  - [Review of Sequential Design](docs/L3_Review_Sequential_Logic_Design.pdf)
+  - [L1: Introduction and Outline to the Course](docs/L1_Introduction_Course_Outline.pdf)
+  - [L2: Review of Combinational Design](docs/L2_Review_Combinational_Logic_Design.pdf)
+  - [L3: Review of Sequential Design](docs/L3_Review_Sequential_Logic_Design.pdf)
+  - [L4: Introduction to Verilog](docs/L4_DD_Verilog_Introduction.pdf)
 
+- **VIDEOS/TUTORIALS/ETC**
+  - [Video: Vivado](https://drive.google.com/file/d/1pMjK7-NyEzoLno-KRy9zS8QvX6bKpIBx/view?usp=sharing)
 
 ## Course Venue & Timings
 
