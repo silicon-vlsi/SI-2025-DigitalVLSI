@@ -12,6 +12,7 @@ Summer Internship 2025: **Digital VLSI Design from Verilog RTL and Verification 
   - [L6: Modules and Ports](docs/L6_Modules_and_Ports.pdf)
   - [L7: Gate Level Modeling](docs/L7_Gate_Level_Modelling.pdf)
   - [L8: Data Flow Modeling](docs/L8_Data_Flow_Modelling.pdf)
+  - [L9: Behavioural Modeling Part-1](docs/L9_Behavioural_Modeling_Part1.pdf)
 
 - **VIDEOS/TUTORIALS/ETC**
   - [Video: Vivado](https://drive.google.com/file/d/1pMjK7-NyEzoLno-KRy9zS8QvX6bKpIBx/view?usp=sharing)
