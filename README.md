@@ -13,6 +13,14 @@ Summer Internship 2025: **Digital VLSI Design from Verilog RTL and Verification 
   - [L7: Gate Level Modeling](docs/L7_Gate_Level_Modelling.pdf)
   - [L8: Data Flow Modeling](docs/L8_Data_Flow_Modelling.pdf)
   - [L9: Behavioural Modeling Part-1](docs/L9_Behavioural_Modeling_Part1.pdf)
+  - [L10:Behavioural Modeling Part-2](docs/L10_Behavioural_Modeling_Part2.pdf)
+  - [L11: Behavioural Modeling of Sequential Logic](docs/L11_Behavioural_Modeling_of_Sequential_Logic.pdf)
+  - [L12: Modeling Memory](docs/L12_Modeling_Memory.pdf)
+
+- **OTHER CLASS DOCUMENTATION**
+  - [EXPERIMENT: Design of Flip-Flops using HDL](docs/EXP-8-FF-HDL.pdf)
+  - [PROJECT: Simple Datapath in Verilog](docs/Simple_Datapath_Verilog_Project.pdf)
+  - [TUTORIAL: Design of Decoder and Encoder](docs/Tutorial_3.pdf)
 
 - **VIDEOS/TUTORIALS/ETC**
   - [Video: Vivado](https://drive.google.com/file/d/1pMjK7-NyEzoLno-KRy9zS8QvX6bKpIBx/view?usp=sharing)
