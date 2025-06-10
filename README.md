@@ -18,6 +18,7 @@ Summer Internship 2025: **Digital VLSI Design from Verilog RTL and Verification 
   - [L12: Modeling Memory](docs/L12_Modeling_Memory.pdf)
 
 - **OTHER CLASS DOCUMENTATION**
+  - [PROBLEM: Mealy and Moore Machine](docs/Problem_set_5.pdf)
   - [EXPERIMENT: Design of Flip-Flops using HDL](docs/EXP-8-FF-HDL.pdf)
   - [PROJECT: Simple Datapath in Verilog](docs/Simple_Datapath_Verilog_Project.pdf)
   - [TUTORIAL: Design of Decoder and Encoder](docs/Tutorial_3.pdf)
