@@ -16,9 +16,12 @@ Summer Internship 2025: **Digital VLSI Design from Verilog RTL and Verification 
   - [L10:Behavioural Modeling Part-2](docs/L10_Behavioural_Modeling_Part2.pdf)
   - [L11: Behavioural Modeling of Sequential Logic](docs/L11_Behavioural_Modeling_of_Sequential_Logic.pdf)
   - [L12: Modeling Memory](docs/L12_Modeling_Memory.pdf)
+  - [L16: Datapath Controller Design](docs/L16_Datapath_Controller_Design.pdf)
 
 - **OTHER CLASS DOCUMENTATION**
   - [PROBLEM: Mealy and Moore Machine](docs/Problem_set_5.pdf)
+  - [PROBLEM: ALU Design](docs/problem_set_3.pdf)
+  - [PROBLEM: COntrol and Datapath](docs/Problem_set_6.pdf)
   - [EXPERIMENT: Design of Flip-Flops using HDL](docs/EXP-8-FF-HDL.pdf)
   - [PROJECT: Simple Datapath in Verilog](docs/Simple_Datapath_Verilog_Project.pdf)
   - [TUTORIAL: Design of Decoder and Encoder](docs/Tutorial_3.pdf)
