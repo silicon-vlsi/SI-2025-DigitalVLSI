@@ -44,6 +44,7 @@ Summer Internship 2025: **Digital VLSI Design from Verilog RTL and Verification 
   - [TUTORIAL: Design of Decoder and Encoder](docs/Tutorial_3.pdf)
 
 - **VIDEOS/TUTORIALS/ETC**
+  - [VIDOE: Introduction to Microprocessors](https://drive.google.com/file/d/1cMgIecV7CY23TsumYUUDC6kr5Yb_XCqr/view?usp=drive_link)
   - [TUTORIAL: BIN-to-BCD](docs/bin2bcd.pdf) 
     - [VERILOG: Binary-to-BCD Conversion](verilog/bin2bcd)
   - :link: [Seven-segment LED display controller in BASYS-3 FPGA board](https://www.fpga4student.com/2017/09/seven-segment-led-display-controller-basys3-fpga.html)
