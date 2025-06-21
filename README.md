@@ -1,4 +1,5 @@
 # SI-2025-DigitalVLSI
+
 Summer Internship 2025: **Digital VLSI Design from Verilog RTL and Verification to  Synthesis**
 
 ## Resources
@@ -28,11 +29,16 @@ Summer Internship 2025: **Digital VLSI Design from Verilog RTL and Verification 
   - [L23: Verilog Synthesis Part6](docs/L23_Verilog_Synthesis_Part6.pdf)
     - [L23 extra notes](docs/L23.pdf)
   - [L24: Verilog Synthesis Part7](docs/L24_Verilog_Synthesis_Part7.pdf)
+  - [L25: Veriog Synthesis Part8](docs/L25_Veriog_Synthesis_Part8.pdf)
+  - [L26: RISC-V Part1](docs/L26_RISC_V_Part1.pdf)
+  - [L27: RISC-V Part2](docs/L27_RISC_V_Part2.pdf)
+  - [L28: RISC-V Part3](docs/L28_RISC_V_Part3.pdf)
+  - [L29: RISC-V Part4](docs/L29_RISC_V_Part4.pdf)
 
 - **OTHER CLASS DOCUMENTATION**
   - [PROBLEM SET 3: ALU Design](docs/problem_set_3.pdf)
   - [PROBLEM SET 5: Mealy and Moore Machine](docs/Problem_set_5.pdf)
-  - [PROBLEM SET 6: COntrol and Datapath](docs/Problem_set_6.pdf)
+  - [PROBLEM SET 6: Control and Datapath](docs/Problem_set_6.pdf)
   - [PROBLEM SET 7: ALU Decoder](docs/problem_set_7.pdf)
   - [PROBLEM SET 8: Misc Blocks](docs/problem_set_8.pdf)
   - [PROBLEM SET 9: Main decoder](docs/problem_set_9.pdf)
